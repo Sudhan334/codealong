@@ -286,7 +286,11 @@ nav img {
     cursor: pointer;
     padding: 18px 0;
 }
-.fa-heart-o{
+.heart{
+    color: #f44336;
+
+}
+.insta{
     color: #f44336;
 
 }
